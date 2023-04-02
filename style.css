@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background-color: biege;
+    background-color: #95e2ec;
 }
 main{
     max-width: 70vw;
@@ -27,10 +27,11 @@ main{
     flex-direction: column;
     justify-content: space-between;
     font-family: sans-serif;
+    background-color: white;
 }
 .sec1 h1{
     height: 30%;
-    color: #00BCD4;
+    color: #009688;
 }
 .sec1 p:first-of-type{
     color: #8eda1e;
@@ -46,7 +47,7 @@ main{
     grid-column: 1/2;
     grid-row: 2/3;
     padding: 5%;
-    background-color: #00BCD4;
+    background-color: #009688;
     border-bottom-left-radius: 20px;
     display: flex;
     flex-direction: column;
@@ -80,7 +81,7 @@ button{
     grid-column: 2/3;
     grid-row: 2/3;
     padding: 5%;
-    background-color: #03a9f4ab;
+    background-color: #00968788;
     color: white;
     border-bottom-right-radius: 20px;
     display: flex;
